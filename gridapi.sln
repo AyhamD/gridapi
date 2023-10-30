@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gridapi", "gridapi\gridapi.csproj", "{52AA925F-C8EF-4EAF-93F3-B161116559BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AA925F-C8EF-4EAF-93F3-B161116559BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AA925F-C8EF-4EAF-93F3-B161116559BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AA925F-C8EF-4EAF-93F3-B161116559BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AA925F-C8EF-4EAF-93F3-B161116559BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E44D6D5-4C52-48C8-AE41-B5734DFE49FC}
+	EndGlobalSection
+EndGlobal
